@@ -6,7 +6,7 @@ while(p<3):
     choice=int(input("Enter a number from 1 to 5: "))
     n=random.randint(1,5)
     if(choice==n):
-        print("Right guess")
+        print("Right guess!!")
         flag=1
         break
     else:
