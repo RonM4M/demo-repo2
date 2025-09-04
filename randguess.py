@@ -1,5 +1,6 @@
 import random
 flag=0
+print("Guess the right number to win.")
 print("You have 3 rounds")
 p=0
 while(p<3):
