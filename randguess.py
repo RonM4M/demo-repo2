@@ -1,6 +1,7 @@
 import random
 flag=0
 print("Welcome to the guessing game. You have to guess a number from 1 to 5.")
+print("Guess the right number to win.")
 print("You have 3 rounds")
 p=0
 while(p<3):
